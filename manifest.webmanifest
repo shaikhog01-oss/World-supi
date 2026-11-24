@@ -1,0 +1,17 @@
+{
+  "name": "WorldUPI",
+  "short_name": "WorldUPI",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#06101f",
+  "theme_color": "#071426",
+  "description": "Personal family payments workspace \u2014 demo mode",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
